@@ -1,0 +1,210 @@
+File: big_to_little_endian_0_O0
+Sum of all cycles: 9456
+Average cycles: 178.41509433962264
+Median: 180.0
+
+File: big_to_little_endian_0_O1
+Sum of all cycles: 4725
+Average cycles: 107.38636363636364
+Median: 85
+
+File: big_to_little_endian_0_O2
+Sum of all cycles: 2949
+Average cycles: 67.02272727272727
+Median: 65
+
+File: big_to_little_endian_0_O3
+Sum of all cycles: 3180
+Average cycles: 72.27272727272727
+Median: 67
+
+File: big_to_little_endian_0_Ofast
+Sum of all cycles: 3129
+Average cycles: 71.11363636363636
+Median: 69
+
+File: big_to_little_endian_1_O0
+Sum of all cycles: 5200
+Average cycles: 118.18181818181819
+Median: 111
+
+File: big_to_little_endian_1_O1
+Sum of all cycles: 3443
+Average cycles: 78.25
+Median: 73
+
+File: big_to_little_endian_1_O2
+Sum of all cycles: 3408
+Average cycles: 77.45454545454545
+Median: 73
+
+File: big_to_little_endian_1_O3
+Sum of all cycles: 3417
+Average cycles: 77.6590909090909
+Median: 76
+
+File: big_to_little_endian_1_Ofast
+Sum of all cycles: 3303
+Average cycles: 75.06818181818181
+Median: 71
+
+File: big_to_little_endian_2_O0
+Sum of all cycles: 4462
+Average cycles: 101.4090909090909
+Median: 99
+
+File: big_to_little_endian_2_O1
+Sum of all cycles: 3180
+Average cycles: 72.27272727272727
+Median: 69
+
+File: big_to_little_endian_2_O2
+Sum of all cycles: 3318
+Average cycles: 75.4090909090909
+Median: 71
+
+File: big_to_little_endian_2_O3
+Sum of all cycles: 3130
+Average cycles: 71.13636363636364
+Median: 69
+
+File: big_to_little_endian_2_Ofast
+Sum of all cycles: 3112
+Average cycles: 70.72727272727273
+Median: 67
+
+File: big_to_little_endian_3_O0
+Sum of all cycles: 4523
+Average cycles: 102.79545454545455
+Median: 99
+
+File: big_to_little_endian_3_O1
+Sum of all cycles: 3229
+Average cycles: 73.38636363636364
+Median: 69
+
+File: big_to_little_endian_3_O2
+Sum of all cycles: 3234
+Average cycles: 73.5
+Median: 71
+
+File: big_to_little_endian_3_O3
+Sum of all cycles: 3110
+Average cycles: 70.68181818181819
+Median: 69
+
+File: big_to_little_endian_3_Ofast
+Sum of all cycles: 3275
+Average cycles: 74.43181818181819
+Median: 69
+
+File: big_to_little_endian_4_O0
+Sum of all cycles: 4847
+Average cycles: 110.1590909090909
+Median: 101
+
+File: big_to_little_endian_4_O1
+Sum of all cycles: 3389
+Average cycles: 77.02272727272727
+Median: 69
+
+File: big_to_little_endian_4_O2
+Sum of all cycles: 3270
+Average cycles: 74.31818181818181
+Median: 71
+
+File: big_to_little_endian_4_O3
+Sum of all cycles: 3276
+Average cycles: 74.45454545454545
+Median: 69
+
+File: big_to_little_endian_4_Ofast
+Sum of all cycles: 3521
+Average cycles: 80.02272727272727
+Median: 79
+
+File: big_to_little_endian_5_O0
+Sum of all cycles: 4357
+Average cycles: 99.02272727272727
+Median: 93
+
+File: big_to_little_endian_5_O1
+Sum of all cycles: 3270
+Average cycles: 74.31818181818181
+Median: 69
+
+File: big_to_little_endian_5_O2
+Sum of all cycles: 3268
+Average cycles: 74.27272727272727
+Median: 67
+
+File: big_to_little_endian_5_O3
+Sum of all cycles: 3301
+Average cycles: 75.02272727272727
+Median: 69
+
+File: big_to_little_endian_5_Ofast
+Sum of all cycles: 3408
+Average cycles: 77.45454545454545
+Median: 73
+
+File: big_to_little_endian_6_O0
+Sum of all cycles: 4867
+Average cycles: 110.61363636363636
+Median: 103
+
+File: big_to_little_endian_6_O1
+Sum of all cycles: 3272
+Average cycles: 74.36363636363636
+Median: 69
+
+File: big_to_little_endian_6_O2
+Sum of all cycles: 3261
+Average cycles: 74.11363636363636
+Median: 67
+
+File: big_to_little_endian_6_O3
+Sum of all cycles: 3249
+Average cycles: 73.8409090909091
+Median: 69
+
+File: big_to_little_endian_6_Ofast
+Sum of all cycles: 3341
+Average cycles: 75.93181818181819
+Median: 73
+
+File: big_to_little_endian_7_O0
+Sum of all cycles: 4711
+Average cycles: 107.06818181818181
+Median: 99
+
+File: big_to_little_endian_7_O1
+Sum of all cycles: 3276
+Average cycles: 74.45454545454545
+Median: 69
+
+File: big_to_little_endian_7_O2
+Sum of all cycles: 3300
+Average cycles: 75.0
+Median: 69
+
+File: big_to_little_endian_7_O3
+Sum of all cycles: 3315
+Average cycles: 75.3409090909091
+Median: 67
+
+File: big_to_little_endian_7_Ofast
+Sum of all cycles: 3430
+Average cycles: 77.95454545454545
+Median: 73
+
+File: lea_0_O3
+Sum of all cycles: 10029
+Average cycles: 227.9318181818182
+Median: 183
+
+File: lea_0_O4
+Sum of all cycles: 13676
+Average cycles: 310.8181818181818
+Median: 198
+
