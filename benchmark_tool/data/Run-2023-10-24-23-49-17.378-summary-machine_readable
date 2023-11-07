@@ -1,0 +1,168 @@
+big_to_little_endian_0_O0
+11125
+179.43548387096774
+Median: 185
+big_to_little_endian_0_O1
+5666
+106.90566037735849
+Median: 89.0
+big_to_little_endian_0_O2
+3548
+66.94339622641509
+Median: 65.0
+big_to_little_endian_0_O3
+3834
+72.33962264150944
+Median: 68.0
+big_to_little_endian_0_Ofast
+3784
+71.39622641509433
+Median: 69.0
+big_to_little_endian_1_O0
+6225
+117.45283018867924
+Median: 110.5
+big_to_little_endian_1_O1
+4054
+76.49056603773585
+Median: 71.0
+big_to_little_endian_1_O2
+4037
+76.16981132075472
+Median: 71.0
+big_to_little_endian_1_O3
+4202
+79.28301886792453
+Median: 78.0
+big_to_little_endian_1_Ofast
+4006
+75.58490566037736
+Median: 71.0
+big_to_little_endian_2_O0
+5404
+101.9622641509434
+Median: 99.0
+big_to_little_endian_2_O1
+3869
+73.0
+Median: 69.0
+big_to_little_endian_2_O2
+4067
+76.73584905660377
+Median: 71.0
+big_to_little_endian_2_O3
+3911
+73.79245283018868
+Median: 69.0
+big_to_little_endian_2_Ofast
+3880
+73.20754716981132
+Median: 72.0
+big_to_little_endian_3_O0
+5544
+104.60377358490567
+Median: 99.0
+big_to_little_endian_3_O1
+3993
+75.33962264150944
+Median: 71.0
+big_to_little_endian_3_O2
+3959
+74.69811320754717
+Median: 71.0
+big_to_little_endian_3_O3
+3849
+72.62264150943396
+Median: 69.0
+big_to_little_endian_3_Ofast
+3984
+75.16981132075472
+Median: 71.0
+big_to_little_endian_4_O0
+5932
+111.9245283018868
+Median: 103.5
+big_to_little_endian_4_O1
+4056
+76.52830188679245
+Median: 69.0
+big_to_little_endian_4_O2
+4012
+75.69811320754717
+Median: 73.0
+big_to_little_endian_4_O3
+3981
+75.11320754716981
+Median: 71.0
+big_to_little_endian_4_Ofast
+4275
+80.66037735849056
+Median: 79.0
+big_to_little_endian_5_O0
+5310
+100.18867924528301
+Median: 94.0
+big_to_little_endian_5_O1
+3935
+74.24528301886792
+Median: 67.0
+big_to_little_endian_5_O2
+3998
+75.43396226415095
+Median: 69.0
+big_to_little_endian_5_O3
+4047
+76.35849056603773
+Median: 75.0
+big_to_little_endian_5_Ofast
+4074
+76.86792452830188
+Median: 73.0
+big_to_little_endian_6_O0
+5810
+109.62264150943396
+Median: 103.0
+big_to_little_endian_6_O1
+3864
+72.90566037735849
+Median: 67.0
+big_to_little_endian_6_O2
+3920
+73.9622641509434
+Median: 67.0
+big_to_little_endian_6_O3
+3901
+73.60377358490567
+Median: 68.0
+big_to_little_endian_6_Ofast
+4034
+76.11320754716981
+Median: 73.0
+big_to_little_endian_7_O0
+5615
+105.94339622641509
+Median: 99.0
+big_to_little_endian_7_O1
+3931
+74.16981132075472
+Median: 71.0
+big_to_little_endian_7_O2
+3934
+74.22641509433963
+Median: 69.0
+big_to_little_endian_7_O3
+3916
+73.88679245283019
+Median: 67.0
+big_to_little_endian_7_Ofast
+4021
+75.86792452830188
+Median: 71.0
+lea_0_O3
+11823
+223.0754716981132
+Median: 183.0
+lea_0_O4
+15488
+292.22641509433964
+Median: 195.5
